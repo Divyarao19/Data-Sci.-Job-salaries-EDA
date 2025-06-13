@@ -1,11 +1,11 @@
 # Data-Sci.-Job-salaries-EDA
-Descriptive Statistics
+1.Descriptive Statistics -
 
 Used .info(), .describe(), .value_counts() for summary
 
 Explored salary distribution and key categorical variables
 
-Visualizations
+2.Visualizations - 
 
 Histogram: Salary distribution
 
